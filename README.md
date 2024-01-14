@@ -68,7 +68,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </p>
 
 <p align="center">	
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbatrow&&show_icons=true&theme=radical" alt="ChuchuCoding's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chuchucoding&&show_icons=true&theme=radical" alt="ChuchuCoding's Github Stats">
 
 
 <div align="center">
